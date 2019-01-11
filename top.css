@@ -1,0 +1,79 @@
+.header , .main {
+  text-align: center;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+.header {
+  background-color: pink;
+  color: white;
+  height: 150px;
+}
+
+.header p {
+  padding-top: 30px;
+}
+
+.main {
+  color: black;
+  height: 1800px;
+}
+
+.main p {
+  padding-bottom: 30px
+}
+
+.emphasis {
+  font-size: 20px;
+  border: 5px double;
+  padding: 30px;
+  font-weight: bold;
+  margin: 30px
+}
+
+.main span {
+  color: orange;
+  font-weight: bold;
+}
+
+.main th,td {
+  border: solid 1px;
+  text-align: left;
+  padding: 10px 20px;
+}
+
+.main th {
+  width: 150px;
+  height: 40px;
+  background-color: #CCCCCC;
+}
+
+.main td {
+  width: 300px;
+  height: 40px;
+}
+
+.main table {
+   border-collapse: collapse;
+}
+
+.footer {
+  background-color: skyblue;
+  height: 300px;
+}
+
+.footer img {
+  padding: 10px 50px;
+}
+
+.footer ul {
+  float: right;
+  list-style: none;
+  padding: 10px 50px;
+}
+
+.footer li {
+  padding: 20px;
+}
