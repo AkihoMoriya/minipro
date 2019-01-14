@@ -20,7 +20,24 @@ body {
 
 .main {
   color: black;
-  height: 1800px;
+  height: 700px;
+  width: 40%;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 40px;
+}
+
+.main input {
+  height: 50px;
+  width: 80%;
+  font-size: 20px;
+  border: 1px solid #BFBFBF;
+  background: #FAFAFA;
+  text-align: center;
+}
+
+.order {
+  padding-bottom: 30px;
 }
 
 .footer {
